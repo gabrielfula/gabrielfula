@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Cursando Informática na ETEC<br>🤝 18 Anos<br>🌱Apaixonado por programação<br>💬 Estudando React JS<br>⚡ Foco em Front-End
+🔭Cursando Informática na ETEC<br>🤝 18 Anos<br>❤️Apaixonado por programação<br>📚 Estudando React JS<br>⚡ Foco em Front-End
 
 
 ## 🌐 Socials:
