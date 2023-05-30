@@ -1,8 +1,6 @@
 # 💫 About Me:
 <br>🔭Cursando Análise e Desenvolvimento de Sistemas
-<br>❤️Apaixonado por programação
-<br>📚 React JS
-<br>⚡ Foco em Front-End
+<br>⚡ Desenvolvedor Web
 <br>https://gabrielfulaneto-portfolio.netlify.app
 
 
@@ -17,6 +15,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%ff00ee.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-%2300C4CC.svg?style=for-the-badge&logo=React&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node-%2300C4CC.svg?style=for-the-badge&logo=Node&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%2300C4CC.svg?style=for-the-badge&logo=Express&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gabrielfula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielfula&theme=dark&hide_border=false)<br/>
