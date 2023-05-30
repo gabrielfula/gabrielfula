@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭Cursando Informática na ETEC<br>🤝 18 Anos<br>❤️Apaixonado por programação<br>📚 React JS<br>⚡ Foco em Front-End<br>https://gabrielfulaneto-portfolio.netlify.app
+<br>🔭Cursando Análise e Desenvolvimento de Sistemas
+<br>❤️Apaixonado por programação
+<br>📚 React JS
+<br>⚡ Foco em Front-End
+<br>https://gabrielfulaneto-portfolio.netlify.app
 
 
 ## 🌐 Socials:
@@ -15,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gabrielfula&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielfula&bg_color=000000&color=ff00ee&line=ff75f6&point=a248a3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
