@@ -1,6 +1,7 @@
 # 💫 About Me:
 <br>🔭Cursando Análise e Desenvolvimento de Sistemas
 <br>⚡ Desenvolvedor Web
+<br>
 <br>https://gabrielfulaneto-portfolio.netlify.app
 
 
